@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cajero automatico App</string>
+    <string name="titulo">CAJERO AUTOMATICO</string>
+    <string name="valorSaldo">CAJERO AUTOMATICO</string>
+    <string name="consignar">CONSIGNAR</string>
+    <string name="retiro">RETIRAR</string>
+</resources>
